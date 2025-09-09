@@ -5,7 +5,8 @@ I love code!!!
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [ramgopal7175@gmail.com](mailto:ramgopal7175@gmail.com )
-* 🧠  I'm learning SQL,Numpy ,JS
+* 🧠  I'm learning SQL,PowerBI,
+  
 
 ### Skills
 
